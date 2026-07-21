@@ -16,8 +16,7 @@ num2 = 20
 add_result = add(num1, num2)
 sub_result = subtract(num1, num2)
 mul_result = multiply(num1, num2)
-
-print("Calculator Version 1.0")
+print("Python Calculator Version 2")
 print("Number 1:", num1)
 print("Number 2:", num2)
 print("Addition Result:", add_result)
